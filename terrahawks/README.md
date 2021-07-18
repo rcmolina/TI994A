@@ -13,6 +13,7 @@ Follow this procedure:
 
 
 TERRAHAWKS (TIC-TAC-TOE)
+
 0) Cambiar a natural Keyboard en MESS
 1) Cargar Cass24.wav y ejecutar: OLD CS1 y luego RUN o bien directamente RUN "CS1"
 2) Una vez que lo he ejecutado ya me deja hacer CALL LINK("OLDCS") y no da error, que hace que me salga el prompt OLD CS1
