@@ -1,4 +1,4 @@
-# TI994/A moonpatrol
+# TI994/A PARSEC
 
 Follow this procedure:
 
